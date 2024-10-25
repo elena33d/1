@@ -1,2 +1,5 @@
 print("Hello world!")
-git push
+git add app.py
+git commit
+git push olena_didenko_1
+
